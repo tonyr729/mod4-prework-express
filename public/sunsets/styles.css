@@ -1,0 +1,8 @@
+.image-container {
+  display: flex;
+}
+
+.sunset-img {
+  width: 31vw;
+  margin: 10px;
+}
